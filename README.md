@@ -1,4 +1,4 @@
-# PGAI Voice Bot — AI Engineering Challenge
+# PGAI Voice Bot - AI Engineering Challenge
 
 An automated voice bot that calls Pretty Good AI's test line
 (`+1-805-439-8008`) as a simulated patient, has a real spoken conversation
