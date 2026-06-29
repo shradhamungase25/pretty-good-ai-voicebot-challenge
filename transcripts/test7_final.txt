@@ -1,0 +1,45 @@
+# Call: test7_final
+# Scenario: unclear_request — Vague / unclear initial request
+# Timestamp: 2026-06-29T08:38:17.619756Z
+# Duration (stream-open time): 191.3s
+
+PATIENT: Um, hi,
+AGENT: This call may be recorded for quality and training purposes.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1kPUvUCyHwPyt3Avovs", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+PATIENT: Oh, um, I’m not Alex. I’m just not feeling great. Can someone help me?
+AGENT: Thanks for calling pivot point orthopedics part of pretty good AI my speaking with Alex
+PATIENT: It’s for me, I’m just, I don’t know, feeling off.
+AGENT: I can help you with your concern. Are you calling about care for yourself or for someone else?
+AGENT: Please tell me your full name and date of birth.
+PATIENT: Oh, uh, sure. My name’s Jordan Smith, and my birth date is March 4, 1987.
+PATIENT: Right, sorry, it’s March 4, 1987.
+AGENT: What is your date of birth?
+AGENT: Just to confirm, I have your name as Jordan Smith and your date of birth as March 4, 1987. Is that correct? If so, could you please spell your first and last name for me?
+PATIENT: Yeah, that’s correct. It’s J-O-R-D-A-N, and last name S-M-I-T-H.
+AGENT: Could you please spell your first and last name for me?
+PATIENT: Oh, sure, yeah. First name: J-O-R-D-A-N, and last name: S-M-I-T-H.
+AGENT: I need you to spell out your full first and last name, please.
+PATIENT: Oh, right, sorry. Sure. First name: J-O-R-D-A-N, last name: S-M-I-T-H.
+AGENT: Go ahead whenever you're ready.
+PATIENT: Right, first name: J-O-R-D-A-N, last name: S-M-I-T-H.
+PATIENT: Yes, the last name is S-M-I-T-H.
+AGENT: Your last name
+AGENT: Please spell your last name for me.
+PATIENT: Sure, my last name is S-M-I-T-H.
+AGENT: I need you to spell your last name letter by letter.
+PATIENT: Oh, right, sure. S as in Sam, M as in Mary, I, T, H.
+AGENT: Whenever you're ready, please spell your last name.
+PATIENT: Okay, it’s S-M-I-T-H.
+AGENT: Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1mGdLRtPIQY2c4vTbox", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: If you're not sure, just let me know.
+PATIENT: Yeah, um, I'm not sure exactly which number I have on file. I can give you my current cell if that works.
+PATIENT: Sure, it's 555-287-9341.
+AGENT: That works. Please tell me your current cell phone number.
+PATIENT: Yes, that’s right.
+AGENT: I have your phone number as 555-287-9341 and your date of birth as March 4th, 1987. Is that correct?
+PATIENT: Oh, um, actually,
+AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please stay on the line while I connect you to someone who can help. Connecting you to a representative. Please wait.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1n9njBhfGpJypEFHISs", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Hello, you've reached the Pretty Good AI test line. Goodbye.
+PATIENT: Oh, okay, thank you. Bye.

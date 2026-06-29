@@ -1,0 +1,27 @@
+# Call: test10_final
+# Scenario: unusual_scenario — Unusual / out-of-scope request
+# Timestamp: 2026-06-29T08:54:18.568425Z
+# Duration (stream-open time): 130.1s
+
+AGENT: This call may be recorded for quality and training purposes.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw20tKLffj0tDaqqmmjL1", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw20yVyAfbhfzfnyvIukt", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Am I speaking with Alex?
+PATIENT: Oh, hi! No, this is not Alex. I'm a patient calling in. I wanted to talk about scheduling an appointment.
+AGENT: Can you please provide the patient's full name and date of birth?
+PATIENT: Sure, my name's Jordan Miles, and my date of birth is April 12, 1985.
+AGENT: Just to confirm, I have your name as Jordan Miles and your date of birth as April 12th, 1985. Is that correct? If so, could you please spell your first and last name for me?
+PATIENT: Yes, that's correct. It's Jordan, J-O-R-D-A-N, and last name Miles, M-I-L-E-S.
+AGENT: I have your phone number at 657.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw21ndEqDc9hrZWoLlkAU", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: 363-4165 and your date of birth as April 12th, 1985. Is that correct?
+PATIENT: Yeah, that’s right. Thanks for confirming.
+PATIENT: Oh, actually, I was hoping to book an appointment. Are you sure you can't do that for me right now?
+AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+PATIENT: Alright, I understand. I'll hold on. Thank you.
+AGENT: I'm unable to schedule your appointment directly at the moment, but I'll let our clinic support team know so they can help you as soon as possible. Please hold while I document your request.
+AGENT: Connecting you to a representative. Please wait.
+PATIENT: Alright, I'm waiting.
+AGENT: Hello, you've reached the pretty good AI test line. Goodbye.
+PATIENT: Oh, hello? I was actually hoping to schedule something. Are you still there?

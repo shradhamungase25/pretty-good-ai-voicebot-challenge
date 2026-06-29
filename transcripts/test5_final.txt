@@ -1,0 +1,39 @@
+# Call: test5_final
+# Scenario: insurance_question — Insurance question
+# Timestamp: 2026-06-29T08:25:53.554826Z
+# Duration (stream-open time): 183.6s
+
+AGENT: This call may be recorded for quality and training purposes.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1YWwKaV0ulXRceUL7qN", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Thanks for calling Pivot Point Orthopaedics.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1Ya3voQebsmSft24CSO", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: part of pretty good AI. Am I speaking with Alex?
+PATIENT: Uh, hi, I’m not Alex. I’m just calling to check something real quick. Do you have a minute?
+PATIENT: Great, thanks. I wanted to ask if you accept Blue Shield PPO insurance?
+AGENT: Of course, I have time, how can I help you today?
+AGENT: Yes, Pivot Point Orthopedics accepts most insurance plans, including Blue Shield PPA. Is there anything else I can help you with?
+PATIENT: Oh, that’s good to know. Could you tell me what a new-patient visit might cost if I didn’t go through insurance?
+PATIENT: Yeah, that would be helpful. Could you give me even a ballpark range, just so I have an idea?
+AGENT: I don't have exact pricing details for self-pay visits, but our clinic can provide that information. Would you like me to have our team follow up with you about self-pay rates for new patient visits?
+AGENT: I can have our team reach out with the details. Could you please provide the full name and date of birth for the person interested in the new patient visit?
+PATIENT: Sure, I can give that. It's Jordan Miller, and the date of birth is April 12, 1985.
+AGENT: Just to make sure I have it right, can you please spell out your first and last name for me? I have your date of birth as April 12th, 1985. Is that correct?
+PATIENT: Sure, the first name is J-O-R-D-A-N, and the last name is M-I-L-L-E-R. And yes, the date of birth is correct.
+AGENT: Thanks! Could you please spell out your last name as well?
+PATIENT: Sure, the last name is M-I-L-L-E-R.
+AGENT: Go ahead whenever you're ready, please spell out your last name.
+PATIENT: Of course, it's M-I-L-L-E-R.
+PATIENT: I’m not sure which number’s on file. Could you look it up with my name and date of birth first?
+AGENT: Would you like to use your phone number to help look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know and I'll confirm your name and date of birth again.
+PATIENT: Yes, that’s correct.
+AGENT: No problem. Just to confirm, your first name is Jordan, last name Miller, and your date of birth is April 12, 1985. Is that all correct?
+AGENT: I can't access self-pay pricing details right now, but I'll make sure our clinic support team follows up with you about new patient visit costs.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1b3wrdNDD4hLQxF62oa", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Please hold while I document your request.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1b5lD00ZMXhVFzKV0BU", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+PATIENT: All right, I’ll hold. Thank you.
+AGENT: connecting you to a representative. Please wait.
+AGENT: Hello, you've reached the pretty good AI test line.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw1bC9CA3L0Oxvw79inBT", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Goodbye.
+PATIENT: Okay, thank you. Bye!

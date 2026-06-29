@@ -1,0 +1,67 @@
+# Call: test2_final
+# Scenario: reschedule — Rescheduling an existing appointment
+# Timestamp: 2026-06-29T07:57:18.007346Z
+# Duration (stream-open time): 220.2s
+
+PATIENT: Hi, um,
+AGENT: This call may be recorded for quality and training purposes.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw16HMb4i8XtsQItPsU2r", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Thanks for calling Pivot Point Orthopedics.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw16J5ZGabOZZcZTnenM7", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: part of pretty good AI. Am I speaking with Alex?
+PATIENT: Oh, hi, um, no, this is not Alex. I'm actually calling to reschedule an appointment.
+AGENT: Please provide the full name and date of birth of the patient whose appointment you want to reschedule.
+PATIENT: Sure, it's Jordan White, date of birth is April 12, 1985.
+AGENT: Just to confirm, I have the name as Jordan White and date of birth as April 12, 1985.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw16uGKKKPsnFkwnLMa3F", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Is that correct?
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw16vVXanB5Maq0eD9bCo", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: If so, please spell out your first and last name for me.
+PATIENT: Yeah, sure. First name: J-O-R-D-A-N, and last name: W-H-I-T-E.
+PATIENT: Sure, it’s W-H-I-T-E.
+AGENT: Thanks. Please spell out your last name.
+PATIENT: Oh, sorry. It’s W-H-I-T-E.
+AGENT: Go ahead and spell out your last name, please.
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw17UreWSMiHnizFZjcEG", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: If you're not sure...
+AGENT: Just let me know and we can confirm your name and date of birth again.
+PATIENT: No problem. I can give you the number on file—it's 555-234-7890.
+AGENT: Please provide the phone number you have on file with us.
+PATIENT: Right, it's 555-234-7890.
+AGENT: Could you please provide the full phone number you have on file with us?
+PATIENT: Oh, sorry, the full number is 555-234-7890.
+AGENT: Could you provide the rest of the phone number as well? I need all 10 digits to look up your record.
+PATIENT: Sorry about that. It’s 555-234-7890.
+AGENT: I still need the remaining digits. Please provide the complete 10-digit phone number you have on file.
+PATIENT: I’m really sorry, that is the full number: 555-234-7890.
+AGENT: No problem.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw18GEwupNfBipA3KIqTh", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Let's confirm your information again. Please spell out your first and last name and confirm your date of birth.
+PATIENT: Sure, first name: J-O-R-D-A-N, last name: W-H-I-T-E, and the date of birth is April 12, 1985.
+PATIENT: Of course, it’s J-O-R-D-A-N.
+AGENT: Please spell out your first name
+AGENT: Please spell out your first name letter by letter.
+PATIENT: Sure, my first name is J-O-R-D-A-N.
+AGENT: Thank you.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw18gKatfp1ZqO0lQhfBH", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Now please spell out your last name.
+PATIENT: W-H-I-T-E.
+PATIENT: It’s April 12, 1985.
+AGENT: Thank you. Please confirm your date of birth.
+AGENT: I have your phone number at 657-
+AGENT: 363-416-8888.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw192SV2wqiMYmqOhYKIx", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: 5, and your date of birth is April 12th.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw195S52LTuICGVccn5yc", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: 1985.
+AGENT: Is that correct?
+PATIENT: Actually, the phone number I have is 555-234-7890. The date of birth is correct, though.
+AGENT: I can't help with rescheduling right now but I'll connect you to our patient support team. Please stay on the line.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw19RtS1KkeA2ED649cIQ", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: connecting you to a representative.
+AGENT: Please wait.
+PATIENT: Oh, all right, I’ll hold on. Thank you.
+SYSTEM_ERROR: {"type": "error", "event_id": "event_Dw19TIQ7LTR5C1b8w4E5L", "error": {"type": "invalid_request_error", "code": "response_cancel_not_active", "message": "Cancellation failed: no active response found", "param": null, "event_id": null}}
+AGENT: Hello, you've reached the pretty good AI test line. Goodbye
+PATIENT: Oh, okay. Thanks anyway. Bye.
